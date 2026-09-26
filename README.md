@@ -71,7 +71,7 @@ PostgreSQL
 Telegram Notification
 ```
 
-➡️ [View project](#)
+➡️ [View project](https://github.com/pipepilot/telegram-n8n-automation)
 
 ---
 
