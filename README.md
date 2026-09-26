@@ -68,7 +68,7 @@ A self-hosted n8n deployment demonstrating how to run an automation platform on 
 - Environment-based configuration
 - Basic backup and recovery procedures
 
-➡️ [View repository](https://github.com/[USERNAME]/n8n-vps-production-demo)
+➡️ [View repository](https://github.com/pipepilot/n8n-vps-production-demo)
 
 ---
 
@@ -135,7 +135,7 @@ A demonstration of a Telegram-based automation workflow using n8n.
 - Telegram notifications
 - Error handling
 
-➡️ [View repository](https://github.com/[USERNAME]/telegram-n8n-automation)
+➡️ [View repository](https://github.com/pipepilot/telegram-n8n-automation)
 
 ---
 
@@ -212,7 +212,7 @@ The purpose of each case is not simply to show the final command that fixes the 
 5. What was changed
 6. How the result was verified
 
-➡️ [View repository](https://github.com/[USERNAME]/docker-vps-troubleshooting)
+➡️ [View repository](https://github.com/pipepilot/docker-vps-troubleshooting)
 
 ---
 
