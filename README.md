@@ -2,7 +2,7 @@
 
 ### Automation • n8n • Docker • Linux VPS
 
-I build and deploy practical automation solutions using **n8n, Docker, Linux VPS, REST APIs, Telegram and PostgreSQL**.
+I build and deploy practical automation solutions using **n8n, Docker, Linux VPS, Caddy, REST APIs, Telegram and PostgreSQL**.
 
 My focus is on connecting existing services, automating repetitive tasks, and deploying reliable self-hosted solutions.
 
@@ -81,8 +81,6 @@ Telegram Notification
 ### 🔹 Troubleshooting Docker VPS
 
 A collection of reproducible Docker and Linux VPS troubleshooting cases.
-
-Each case follows the same diagnostic process:
 
 Problem → Logs → Analysis → Fix → Verification
 
