@@ -105,30 +105,6 @@ Problem → Logs → Analysis → Fix → Verification
 
 ---
 
-## 🧩 How I Approach Technical Problems
-
-I prefer a practical troubleshooting process:
-
-```text
-Problem
-   ↓
-Collect information
-   ↓
-Check logs & configuration
-   ↓
-Identify the cause
-   ↓
-Implement the fix
-   ↓
-Test
-   ↓
-Document
-```
-
-The goal is not simply to make a service work once, but to understand **why it failed and how to prevent the same problem from recurring**.
-
----
-
 ## 🔐 Security
 
 I do not publish:
