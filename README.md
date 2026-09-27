@@ -74,27 +74,19 @@ PostgreSQL
 Telegram Notification
 ```
 
-➡️ [View project](#)
+➡️ [View project](https://github.com/pipepilot/telegram-n8n-automation)
 
 ---
 
-### 🔹 API Integration with n8n
+### 🔹 Troubleshooting Docker VPS
 
-**REST API • JSON • n8n • Telegram**
+A collection of reproducible Docker and Linux VPS troubleshooting cases.
 
-Example workflow for receiving data from an external API, processing it and sending the result to Telegram.
+Each case follows the same diagnostic process:
 
-```text
-REST API
-   ↓
-n8n
-   ↓
-Transform / Filter
-   ↓
-Telegram
-```
+Problem → Logs → Analysis → Fix → Verification
 
-➡️ [View project](#)
+➡️ [View project](https://github.com/pipepilot/docker-vps-troubleshooting)
 
 ---
 
