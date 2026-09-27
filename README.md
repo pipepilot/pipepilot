@@ -50,7 +50,7 @@ A self-hosted automation stack designed for running n8n on a Linux VPS.
 * Environment-based configuration
 * Backup and restore procedures
 
-➡️ [View project](#)
+➡️ [View project](https://github.com/pipepilot/n8n-vps-production-demo)
 
 ---
 
