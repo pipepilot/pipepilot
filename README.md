@@ -8,6 +8,27 @@ My focus is on connecting existing services, automating repetitive tasks, and de
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=pipepilot&label=Profile%20views&color=0e75b6&style=flat)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pipepilot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=pipepilot&label=Посещения%20профиля&color=blueviolet&style=flat)
+
+![Profile views](https://komarev.com/ghpvc/?username=pipepilot&label=Посещения%20профиля&color=blueviolet&style=flat-square)
+
+![Profile views](https://komarev.com/ghpvc/?username=pipepilot&label=Посещения%20профиля&color=blueviolet&style=for-the-badge)
+
+![Profile views](https://komarev.com/ghpvc/?username=pipepilot&label=Посещения%20профиля&color=blueviolet&style=plastic)
+
+![Profile views](https://komarev.com/ghpvc/?username=pipepilot)
+
+
+
+
+
+
 ## 🛠️ What I Work With
 
 ### Automation
