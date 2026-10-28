@@ -1,6 +1,7 @@
 # Hi, I'm [Your Name] 👋
 
 ### Automation • n8n • Docker • Linux VPS
+### Linux & Docker | n8n Automation | VPS Setup & Troubleshooting
 
 I build and deploy practical automation solutions using **n8n, Docker, Linux VPS, Caddy, REST APIs, Telegram and PostgreSQL**.
 
